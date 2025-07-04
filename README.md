@@ -33,8 +33,8 @@ npm run dev
 npm run build
 
 ### 🧩 Tech Stack
--Three.js
--Tweakpane for UI controls
--Vite for fast bundling and dev server
--JavaScript
+- Three.js
+- Tweakpane for UI controls
+- Vite for fast bundling and dev server
+- JavaScript
 
